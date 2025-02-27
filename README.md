@@ -393,7 +393,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Affirm** | Software Engineer I - Data Platform | Remote in USA | 🔒 | Oct 03 |
 | **PolyAI** | Software Engineer – Graduate / Junior - Project - Must be in Toronto | Toronto, ON, Canada | 🔒 | Oct 03 |
 | **Grand Rounds** | Full Stack Software Engineer – New College Grad - Treat Team | Remote in USA | 🔒 | Oct 02 |
-| **IBM** | Entry Level Back End Developer: 2025 | Tucson, AZ</br>Austin, TX</br>San Jose, CA | <a href="https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
+| **IBM** | Entry Level Back End Developer: 2025 | Tucson, AZ</br>Austin, TX</br>San Jose, CA | 🔒 | Oct 02 |
 | **Splunk** | Fedramp Software Engineer – Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC | 🔒 | Oct 01 |
 | **SeatGeek** | Software Engineer – New Grad | NYC | 🔒 | Oct 01 |
 | **SMX** | Junior Software Engineer - Ts/Sci CI Poly | Chantilly, VA | 🔒 | Oct 01 |
